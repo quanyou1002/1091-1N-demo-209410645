@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#line3,
+#line4,
+#id209410645{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#line3 img{
+    width: 25%;
+    margin: 1.66%;
+}
+#line4 img{
+    width: 20%;
+    margin: 1.5%;
+
+}
+#id209410645 img{
+    width: 15%;
+    margin:2.4%;
+}
+p{
+    text-transform: uppercase;
+    font-family: serif;
+    font-size: 45px;
+    font-style: initial;
+    font-weight: 450;
+    border-bottom: 2px solid#3ba1bb;
+    margin: 1.66%;
+
+}
+
